@@ -7,13 +7,6 @@
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0</version>
-  <executions>
-        <execution>
-            <goals>
-                <goal>java</goal>
-            </goals>
-        </execution>
-    </executions>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
