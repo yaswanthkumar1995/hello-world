@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:9.0 
+FROM tomcat:9.0 
 
 # Maintainer 
 MAINTAINER "vickyroyal1995@gmail.com" 
