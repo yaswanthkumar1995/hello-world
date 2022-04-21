@@ -56,7 +56,13 @@
             <plugin>
               <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
-
+	    
+	       
+	    <plugin>
+              <artifactId>maven-site-plugin</artifactId>
+              <version>3.0</version>
+            </plugin>
+		  
             <plugin>
               <artifactId>maven-jxr-plugin</artifactId>
             </plugin>
